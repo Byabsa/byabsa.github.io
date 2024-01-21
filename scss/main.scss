@@ -1,0 +1,40 @@
+.navbar-brand {
+    font-weight: 600;
+}
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+.header {
+    background-color: rgb(255, 131, 201);
+}
+
+:root {
+    --bs-body-font-family: 'Noto Sans', sans-serif;
+    --bs-body-font-size: 18px;
+    --bs-body-font-weight: 300;
+}
+
+.content {
+    height: 100vh;
+}
+
+.about__president-name
+{
+    position: absolute;
+    bottom: 0px;
+    right: 100px;
+    font-size: 50pt;
+    text-shadow: 2px 2px 5px black;
+}
+
+p {
+    font-size: 10pt;
+}
+
+.info-text {
+    font-size: 18pt;
+}
+
+.footer {
+    background-color: rgb(47, 47, 47);
+}
