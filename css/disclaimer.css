@@ -1,0 +1,20 @@
+@import '../css/main.css';
+:root {
+  --bs-body-font-family: "Consolas", sans-serif;
+  --bs-body-font-size: 18px;
+  --bs-body-font-weight: 300;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  letter-spacing: 0.3rem;
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}/*# sourceMappingURL=disclaimer.css.map */
